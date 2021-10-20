@@ -1,0 +1,91 @@
+1633090572
+s:6442:"<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/fr/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/fr/blog/feed.xml</link>
+    <description></description>
+    <language>fr</language>
+     <atom:link href="https://www.prestashop.com/fr/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>E-commerce à l’international : comment lever le frein de la livraison ?</title>
+    <link>https://www.prestashop.com/fr/blog/delivengo-livraison-internationale</link>
+    <description>En juin 2020, le e-commerce c’est 1,78 milliards de boutiques dans le monde et un volume d&#039;affaires de plus de 700 milliards d’euros !</description>
+     <pubDate>Tue, 28 Sep 2021 10:55:16 +0200</pubDate>
+ <dc:creator>Amélie Gantois</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/delivengo-livraison-internationale</guid>
+  </item>
+  <item>
+    <title>Pinterest : comment bien utiliser la plateforme pour développer votre activité e-commerce ?</title>
+    <link>https://www.prestashop.com/fr/blog/social-selling-avec-pinterest</link>
+    <description>Lorsque l’on sait que plus de 200 millions de personnes à travers le monde utilisent Pinterest quotidiennement, il semble évident que la plateforme possède un potentiel énorme pour</description>
+     <pubDate>Mon, 27 Sep 2021 15:20:03 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/social-selling-avec-pinterest</guid>
+  </item>
+  <item>
+    <title>Pourquoi et comment optimiser son tunnel d’achat </title>
+    <link>https://www.prestashop.com/fr/blog/prestashop-essentials</link>
+    <description>Comment les bons outils peuvent aider votre boutique à améliorer son taux de conversion. </description>
+     <pubDate>Mon, 27 Sep 2021 15:09:24 +0200</pubDate>
+ <dc:creator>L&#039;équipe PrestaShop</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/prestashop-essentials</guid>
+  </item>
+  <item>
+    <title>Nano-influenceurs : comment utiliser cette stratégie de marketing d’influence ?</title>
+    <link>https://www.prestashop.com/fr/blog/tips-nano-influencer-ecommerce</link>
+    <description>La croissance annuelle du marché du marketing d’influence est incroyable : plus de 56 % par an. Chacun y trouve son compte : les marques, les influenceurs et les consommateurs.</description>
+     <pubDate>Mon, 20 Sep 2021 10:16:51 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/tips-nano-influencer-ecommerce</guid>
+  </item>
+  <item>
+    <title>Les 5 signes qui montrent que vos clients aiment votre marque</title>
+    <link>https://www.prestashop.com/fr/blog/signes-fidelite-clients</link>
+    <description>Pour augmenter votre chiffre d’affaires, il faut vendre. Pour vendre, il faut que vos clients achètent vos produits. Pour qu’ils achètent vos produits, ces derniers doivent répondre à un besoin.</description>
+     <pubDate>Mon, 20 Sep 2021 09:58:55 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/signes-fidelite-clients</guid>
+  </item>
+  <item>
+    <title>Boutique en ligne mal pensée : comment la frustration de l’utilisateur peut-elle vous faire rater une vente ?</title>
+    <link>https://www.prestashop.com/fr/blog/eviter-mauvaise-experience-utilisateur</link>
+    <description>Pour réaliser une vente et booster son chiffre d’affaires, la qualité du produit, l’originalité du packaging ou l’efficacité de la communication sont bien entendu essentiels.</description>
+     <pubDate>Mon, 20 Sep 2021 09:50:55 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/eviter-mauvaise-experience-utilisateur</guid>
+  </item>
+  <item>
+    <title>Pourquoi le Revenue-Based Financing séduit les e-commerçants</title>
+    <link>https://www.prestashop.com/fr/blog/revenue-based-financing</link>
+    <description>C’est le moment d’appuyer sur l’accélérateur pour votre e-commerce.</description>
+     <pubDate>Mon, 13 Sep 2021 15:26:29 +0200</pubDate>
+ <dc:creator>Nima Karimi</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/revenue-based-financing</guid>
+  </item>
+  <item>
+    <title>Pic de fin d’année : 5 techniques pour décupler votre panier moyen</title>
+    <link>https://www.prestashop.com/fr/blog/decupler-panier-moyen</link>
+    <description>C’est la rentrée ! Après des vacances bien méritées, il est temps de préparer votre boutique pour le pic de ventes de fin d’année.</description>
+     <pubDate>Fri, 10 Sep 2021 14:35:16 +0200</pubDate>
+ <dc:creator>Roxane Tranchard</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/decupler-panier-moyen</guid>
+  </item>
+  <item>
+    <title>Six conseils pour créer une FAQ parfaite</title>
+    <link>https://www.prestashop.com/fr/blog/conseils-faq-ecommerce</link>
+    <description>Et si une foire aux questions (FAQ) pouvait booster vos ventes ?</description>
+     <pubDate>Thu, 09 Sep 2021 18:19:51 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/conseils-faq-ecommerce</guid>
+  </item>
+  <item>
+    <title>O’Barbershop, la boutique pour les barbiers et les barbus</title>
+    <link>https://www.prestashop.com/fr/blog/obarbershop-barbiers-ecommerce</link>
+    <description>À l’occasion des PrestaShop Live Talks, PrestaShop a donné la parole à Nicolas Herpin, président de O’Barbershop, un site e-commerce dédié au grooming, le soin au masculin, sur le march</description>
+     <pubDate>Tue, 07 Sep 2021 16:56:37 +0200</pubDate>
+ <dc:creator>L&#039;équipe PrestaShop</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/obarbershop-barbiers-ecommerce</guid>
+  </item>
+  </channel>
+</rss>
+";
